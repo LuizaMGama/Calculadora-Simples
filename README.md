@@ -1,4 +1,4 @@
 # Calculadora-Simples
 
-![image](https://github.com/LuizaMGama/Calculadora-Simples/assets/164073139/7e879347-8123-478d-a237-d5b6542660a4)
+![image](https://github.com/LuizaMGama/Calculadora-Simples/assets/164073139/b87eb031-aa93-4816-ad29-ee64b7ad0790)
 Prototipagem do projeto de acordo com as instruções do professor Jailson Costa. [Veja-o aqui!](https://calculadora-simples-rho.vercel.app/)
